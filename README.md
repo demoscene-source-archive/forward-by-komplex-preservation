@@ -1,6 +1,13 @@
 # forward by Komplex (preservation)
-Forward Java demo, rebuild from the bytecode, adapted to a more recent JDK and packaged as a standalone binary. Part of my PhD project about demoscene preservation.<br>
+Forward Java demo, rebuilt from the bytecode, adapted to a more recent JDK and packaged as a standalone binary. Part of my PhD project about demoscene preservation.<br>
 _-- fra^mandarine_
+
+## Original authors:
+
+- saviour, jmagic, anis - _code_
+- carebear, jugi - _music_
+- jugi - _graphics_
+- reward - _komplex 3D klunssi_
 
 ![preview](img/shot_007.png)
 
